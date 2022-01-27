@@ -348,11 +348,11 @@
             return '倒计时多了' + ((deviation_time / 1000) - 20).toFixed(2) + "s";
         }
         SubmitResults();
-        if (score <= 49) return '逊呐';
-        if (score <= 99) return '哼哼哼';
-        if (score <= 149) return '你是一个一个一个';
-        if (score <= 199) return '哼哼哼啊啊啊啊啊';
-        return '都撅烂了罢（恼';
+        if (score <= 30) return '人类，你太慢了';
+        if (score <= 70) return '哼，还可以嘛';
+        if (score <= 100) return '你，你有本事再快一点（哭';
+        if (score <= 130) return '小魅魔要被你吃光了啦';
+        return '再，再也不敢欺负你们了';
     }
 
     w.toStr = function(obj) {
