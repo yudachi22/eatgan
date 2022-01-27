@@ -3,11 +3,9 @@
 </p>
 <div align="center">
 
-# RapeSenpai
-**新概念Home游戏**
+# game
+**game**
 </div>
 
 ## 简介
-小游戏：雷普先辈
 
-纯恶搞无恶意。
